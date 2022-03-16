@@ -1,0 +1,9 @@
+#marker {
+    background-image: url('img/hackercat.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+}
